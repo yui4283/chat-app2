@@ -3,6 +3,9 @@ def new
 @room = Room.new
 end
 
+def index
+end
+
 
 
 def create
